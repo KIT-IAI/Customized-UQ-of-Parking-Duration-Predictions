@@ -5,7 +5,7 @@ customised uncertainty quantification of parking duration predictions for EV sma
 in the following paper:
 > Kaleb Phipps, Karl Schwenk, Benjamin Briegel, Ralf Mikut, and Veit Hagenmeyer. 2023.
 > Customized Uncertainty Quantification of Parking Duration Predictions for EV Smart Charging. In The IEEE Internet of
-> Things Journal.
+> Things Journal. (2023). DOI: 10.1109/JIOT.2023.3299201
 
 ## Repository Structure
 
